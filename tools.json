@@ -40,5 +40,11 @@
     "nameTool": "Next Js",
     "srcTool": "https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png",
     "altTool": "Next_logo"
+  },
+  {
+    "idTool": 8,
+    "nameTool": "C#",
+    "srcTool": "https://desarrolloweb.com/storage/tag_images/actual/BzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png",
+    "altTool": "CSharp_logo"
   }
 ]
