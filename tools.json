@@ -1,0 +1,44 @@
+[
+  {
+    "idTool": 1,
+    "nameTool": "Bootstrap",
+    "srcTool": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png",
+    "altTool": "Bootstrap_Logo"
+  },
+  {
+    "idTool": 2,
+    "nameTool": "Tailwind",
+    "srcTool": "https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png",
+    "altTool": "Tailwind_Logo"
+  },
+  {
+    "idTool": 3,
+    "nameTool": "HTML5",
+    "srcTool": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
+    "altTool": "HTML5_logo"
+  },
+  {
+    "idTool": 4,
+    "nameTool": "CSS3",
+    "srcTool": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+    "altTool": "CSS3_logo"
+  },
+  {
+    "idTool": 5,
+    "nameTool": "JavaScript",
+    "srcTool": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+    "altTool": "JavaScript_logo"
+  },
+  {
+    "idTool": 6,
+    "nameTool": "React",
+    "srcTool": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png",
+    "altTool": "React_logo"
+  },
+  {
+    "idTool": 7,
+    "nameTool": "Next Js",
+    "srcTool": "https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png",
+    "altTool": "Next_logo"
+  }
+]

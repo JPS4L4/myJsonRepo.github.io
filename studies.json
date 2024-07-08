@@ -1,0 +1,20 @@
+[
+  {
+    "idStudy": 1,
+    "studyName": "Técnico en Sistemas",
+    "studyPeriod": "2020 - 2021",
+    "collegeStudy": "SENA - CTMA"
+  },
+  {
+    "idStudy": 2,
+    "studyName": "Técnologo en ADSI",
+    "studyPeriod": "2022 - 2024",
+    "collegeStudy": "SENA - CTMA"
+  },
+  {
+    "idStudy": 3,
+    "studyName": "Curso React y Next",
+    "studyPeriod": "2023 - 2024",
+    "collegeStudy": "Udemy"
+  }
+]
