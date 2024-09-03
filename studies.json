@@ -16,5 +16,11 @@
     "studyName": "Curso React y Next",
     "studyPeriod": "2023 - 2024",
     "collegeStudy": "Udemy"
+  },
+  {
+    "idStudy": 4,
+    "studyName": "Ingeniería Ciencias de Datos",
+    "studyPeriod": "2024 - En Curso",
+    "collegeStudy": "ITM"
   }
 ]
